@@ -27,7 +27,7 @@ Arriba se utiliza `import` para cargar la librería `numpy` con el alias `np`. P
 arreglox = np.linspace(0, 5, 10)
 ```  
 
-En el código anterior se utiliza la función `linspace` para crear un arreglo con 10 números equidistantes entre 0 y 10 y asignarlo a la variable `arreglox`. Puede verificar que `arreglox` es efectivamente una variable de tipo `numpy.ndarray` utilizando el comando `type(arreglox)`. Defina varios tipos de variables y verifique su tipo utilizando la función `type`.  
+En el código anterior se utiliza la función `linspace` para crear un arreglo con 10 números equidistantes entre 0 y 5 y asignarlo a la variable `arreglox`. Puede verificar que `arreglox` es efectivamente una variable de tipo `numpy.ndarray` utilizando el comando `type(arreglox)`. Defina varios tipos de variables y verifique su tipo utilizando la función `type`.  
 
 ### Espacios en blanco e indentación
 
